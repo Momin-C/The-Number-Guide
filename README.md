@@ -65,7 +65,7 @@ Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.c
 
 Project Link: [https://github.com/Momin-C/The-Number-Guide](https://github.com/Momin-C/The-Number-Guide)
 
-[issues-shield]: https://img.shields.io/github/issues/The-Number-Guide/
+[issues-shield]: https://img.shields.io/github/issues/Momin-C/The-Number-Guide
 [issues-url]: https://github.com/Momin-C/The-Number-Guide/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/momin-chaudhry/
