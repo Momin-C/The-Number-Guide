@@ -27,7 +27,7 @@
 
 ## About The Project
 
-The Number Guide allows you to classify handwritten digits as their respective numbers. There are two models which can be accessed in `/models` these models are decision tree classifiers and neural networks.
+The Number Guide allows you to classify handwritten digits as their respective numbers. There are two models which can be accessed in `/Models` these models are decision tree classifiers and neural networks. For in-depth explanations refer to the notebook.
 
 ### Developed Using
 This project was developed using Jupyter Notebook and many modules, documentation can be found below
