@@ -41,8 +41,8 @@ This project was developed using Jupyter Notebook and many modules, documentatio
 * [csv](https://docs.python.org/3/library/csv.html)
 
 ## Screenshots
-![Message Preview](Images/Test.png)
-<img src="images/Test.png" alt="Test" width="120" height="120">
+
+<img src="images/Image.png" alt="Test" width="120" height="120">
 ## Contributing
 
 If you have any ideas on how to improve The Number Guide, make a contribution!
