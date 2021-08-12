@@ -1,7 +1,7 @@
 <br />
   <p align="center">
   <a href="https://github.com/Momin-C/Handwritten-Digit-Recognition">
-    <img src="images/Logo.png" alt="Logo" width="120" height="120">
+    <img src="images/Icon.png" alt="Logo" width="120" height="120">
   </a>
 
   <h2 align="center">The Number Guide</h2>
