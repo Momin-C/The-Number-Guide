@@ -63,8 +63,6 @@ If you have any ideas on how to improve The Number Guide, make a contribution!
 
 Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
 
-Project Link: [https://github.com/Momin-C/The-Number-Guide](https://github.com/Momin-C/The-Number-Guide)
-
 [issues-shield]: https://img.shields.io/github/issues/Momin-C/The-Number-Guide
 [issues-url]: https://github.com/Momin-C/The-Number-Guide/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
