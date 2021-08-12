@@ -20,10 +20,7 @@
 
 * [About the Project](#about-the-project)
     * [Developed Using](#developed-using)
-* [Demos](#demos)
-* [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Setting Up The Bot](#setting-up-the-bot)
+* [Screenshots](#screenshots)
 * [Contributing](#contributing)
 * [References](#references)
 * [Contact](#contact)
@@ -42,6 +39,9 @@ This project was developed using Jupyter Notebook and many modules, documentatio
 * [Jupyter-Notebook](https://jupyter.org)
 * [OpenCV](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
 * [csv](https://docs.python.org/3/library/csv.html)
+
+## Screenshots
+![Message Preview](Images/Test.png)
 
 ## Contributing
 
