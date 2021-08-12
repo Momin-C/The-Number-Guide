@@ -42,9 +42,9 @@ This project was developed using Jupyter Notebook and many modules, documentatio
 
 ## Screenshots
 
-<img src="images/Image.png" alt="Test" width="120" height="120">
-## Contributing
+<img src="Images/Test.png" alt="Test" width="300" height="300">
 
+## Contributing
 If you have any ideas on how to improve The Number Guide, make a contribution!
 
 1. Fork the project
