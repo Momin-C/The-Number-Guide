@@ -1,6 +1,6 @@
 <br />
   <p align="center">
-  <a href="https://github.com/Momin-C/Handwritten-Digit-Recognition">
+  <a href="https://github.com/Momin-C/The-Number-Guide">
     <img src="Images/Icon.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -9,7 +9,7 @@
     Application for classifying handwritten digits using the decision tree classifier and neural network machine learning models. 
     <br />
     <br />
-    <a href="https://github.com/Momin-C/Handwritten-Digit-Recognition/issues">Report Bug</a>
+    <a href="https://github.com/Momin-C/The-Number-Guide/issues">Report Bug</a>
   </p>
 </p>
 
@@ -63,9 +63,9 @@ If you have any ideas on how to improve The Number Guide, make a contribution!
 
 Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
 
-Project Link: [https://github.com/Momin-C/Handwritten-Digit-Recognition](https://github.com/Momin-C/Handwritten-Digit-Recognition)
+Project Link: [https://github.com/Momin-C/The-Number-Guide](https://github.com/Momin-C/The-Number-Guide)
 
-[issues-shield]: https://img.shields.io/github/issues/Handwritten-Digit-Recognition/Stocky
-[issues-url]: https://github.com/Momin-C/Handwritten-Digit-Recognition/issues
+[issues-shield]: https://img.shields.io/github/issues/The-Number-Guide/
+[issues-url]: https://github.com/Momin-C/The-Number-Guide/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/momin-chaudhry/
