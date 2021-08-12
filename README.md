@@ -42,7 +42,7 @@ This project was developed using Jupyter Notebook and many modules, documentatio
 
 ## Screenshots
 ![Message Preview](Images/Test.png)
-
+<img src="images/Test.png" alt="Test" width="120" height="120">
 ## Contributing
 
 If you have any ideas on how to improve The Number Guide, make a contribution!
@@ -57,7 +57,7 @@ If you have any ideas on how to improve The Number Guide, make a contribution!
 
 * Machine learning introduction was provided by Josh Gordon at [Google Developers](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * Models were based on videos provided by [NeuralNine](https://www.youtube.com/watch?v=Zi4i7Q0zrBs) and [Programming with Mosh](https://www.youtube.com/watch?v=7eh4d6sabA0)
-* [Credit to othneildrew for the README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
+* Credit to othneildrew for the [README template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 
 ## Contact
 
